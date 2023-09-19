@@ -16,6 +16,7 @@ a{
     border: 2px solid black;
     width: 18rem;
     height: 33rem;
+    margin-bottom: 5px;
 }
 .card-img-top{
     height: 300px;
@@ -24,8 +25,13 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding: px; */
+    /* padding: 5px; */
 }
 p{
     text-align: justify;
+}
+h5{
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
 }
