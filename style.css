@@ -1,0 +1,27 @@
+#head{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+#image{
+    height: 300px;
+    width: auto;
+}
+.card{
+    border: 2px solid black;
+    width: 18rem;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: px; */
+}
+p{
+    text-align: justify;
+}
