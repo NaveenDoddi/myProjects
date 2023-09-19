@@ -15,6 +15,10 @@ a{
 .card{
     border: 2px solid black;
     width: 18rem;
+    height: 33rem;
+}
+.card-img-top{
+    height: 300px;
 }
 .row{
     display: flex;
