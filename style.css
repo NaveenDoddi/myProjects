@@ -13,8 +13,8 @@ a{
 }
 .card{
     border: 2px solid black;
-    width: 18rem;
-    height: 33rem;
+    width: 400px;
+    height: 520px;
     margin-bottom: 5px;
 }
 .card-img-top{
